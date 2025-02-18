@@ -1,4 +1,4 @@
-# EDQTY-A-multimodal-learning-tool
+# EDQTY-v2      -A-multimodal-learning-tool
 Breaking language and learning barriers with AI-powered interactive education.
 
 EdQty is a smart learning companion designed for international students and individuals with learning disabilities. It provides real-time multilingual translation, AI-powered Q&A, personalized study notes, and accessibility tools to make education more inclusive and effective.
